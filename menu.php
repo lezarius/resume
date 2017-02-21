@@ -34,7 +34,7 @@
 
           <ul class="nav navbar-nav navbar-right">
             <li><a href="http://cv.lezarius.eu">FR resume</a></li>
-            <li><a href="http://lezarius.tech">Profesional website</a></li>
+            <li><a href="http://lezarius.tech">Lezarius.tech</a></li>
           </ul>
 
         </div>
