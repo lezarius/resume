@@ -29,7 +29,7 @@ My name is Ronce aka Lezarius. Im an scientist on web, i do lot of think. I try 
 Passionate by new tech and politics. Im writing on blog, and a book at my free time.
 <br> 
 <br> 
-Or my spirit is open for all univers and all people. This my super power !
+Nonetheless my spirit is open for all univers and all people. This my super power !
 </article>
 
 <h1>You can also discover me on</h1>
