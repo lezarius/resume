@@ -9,7 +9,7 @@
  <nav class="navbar navbar-default  navbar-fixed-top" role="navigation">
       <div class="container-fluid">
         <div class="navbar-header">
-          <a href="index.php" class="navbar-brand">Curriculum Vitae</a>
+          <a href="index.php" class="navbar-brand">Resume</a>
           <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
@@ -19,21 +19,22 @@
         <div class="navbar-collapse collapse" id="navbar-main">
           <ul class="nav navbar-nav">
             <li>
-              <a href="#xp">Mon expérience</a>
+              <a href="#xp">Experience</a>
             </li>
             <li>
-              <a href="#diplome">Mes Diplômes</a>
+              <a href="#diplome">Degree</a>
             </li>
              <li>
-              <a href="#competence">Mes compétences</a>
+              <a href="#competence">Skill</a>
             </li>
             <li>
-              <a href="#contact">Me contacter</a>
+              <a href="http://lezarius.tech/contact.php">Contact us</a>
             </li>
           </ul>
 
           <ul class="nav navbar-nav navbar-right">
-            <li><a href="http://remy-mazabraud.eu">Mon site Pro</a></li>
+            <li><a href="http://cv.lezarius.eu">FR resume</a></li>
+            <li><a href="http://lezarius.tech">Profesional website</a></li>
           </ul>
 
         </div>
