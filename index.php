@@ -23,19 +23,16 @@
  <!-- Grande colonne  -->
   <div class="col-md-9 col-md-push-3">
   <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
-<h1 align="center"> Une petite présentation s'impose ! </h1>
+<h1 align="center"> Somethink about me ! </h1>
 <article>
-Je m'appelle Ronce Akaé Lezarius. Je suis une scientifique du web, je touche à tout et essaye de réaliser ma vision du web et de la vie de demain.
-Passionnée par les nouvelles technologies et la politique, je m’intéresse aussi au retro gaming. Je réalise aussi quelques billets engagés
-sur le monde actuel et mes geekerie.
+My name is Ronce aka Lezarius. Im an scientist on web, i do lot of think. I try to make better word (wide web, of course).
+Passionate by new tech and politics. Im writing on blog, and a book at my free time.
 <br> 
 <br> 
-Pour autant, je reste ouvert d'esprit sur le monde qui m'entoure et c'est cela qui fait ma force !
+Or my spirit is open for all univers and all people. This my super power !
 </article>
 
-<h1>Une autre façon de me voir</h1>
-<h3>Lezarius est mon pseudo sur les internets !</h3>
-<h6>Vous pouvez donc me retrouver sur différentes platformes :</h6>
+<h1>You can also discover me on</h1>
 <p><a href="http://www.twitter.com/lezarius" class="zocial twitter">@Lezarius</a>
 	<a href="https://github.com/lezarius" class="zocial github">@Lezarius</a>
   </div>
