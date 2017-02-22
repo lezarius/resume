@@ -29,7 +29,7 @@ My name is Ronce aka Lezarius. Im an scientist on web, i do lot of think. I try 
 Passionate by new tech and politics. Im writing on blog, and a book at my free time.
 <br> 
 <br> 
-Nonetheless my spirit is open for all univers and all people. This my super power !
+Nonetheless my spirit is open for all univers and all people. This is my super power !
 </article>
 
 <h1>You can also discover me on</h1>
@@ -63,13 +63,13 @@ Nonetheless my spirit is open for all univers and all people. This my super powe
           </div>
           <div class="col-lg-6">
             <blockquote class="pull-right">
-              <p>Aide à la conception et analyse des techniques d'architecture moderne.</p>
+              <p>Assistance in the design and analysis of modern architectural.</p>
               <small>Cokaliti Illustration 33270, Floirac</small>
             </blockquote>
           </div>
 <div class="col-lg-6">
             <blockquote>
-              <p>Mise en situation en tribunal et étude d'une affaire criminelle.</p>
+              <p>Showing some case in court and study criminal case.</p>
               <small>Maître Robert 33000, Bordeaux</small>
             </blockquote>
           </div>
@@ -153,7 +153,7 @@ Nonetheless my spirit is open for all univers and all people. This my super powe
 </div>
 <div class="progress">
   <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
-  Team Work gestion
+  Team Leader 
     <span class="sr-only">70% Complete</span>
   </div>
 </div>
@@ -163,7 +163,7 @@ Nonetheless my spirit is open for all univers and all people. This my super powe
 <div class="col-md-3 col-md-pull-9">
 <h1>Mes atouts</h1>
 <ul>
-	<li>Esprit d'équipe</li>
+	<li>Team work</li>
 	<li>Niveau d'adaptation élevé</li>
 	<li>Esprit d'entreprise</li>
 	<li>Veille technologique</li>
