@@ -157,19 +157,17 @@ Nonetheless my spirit is open for all univers and all people. This is my super p
     <span class="sr-only">70% Complete</span>
   </div>
 </div>
+<div class="progress">
+  <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 85%;">
+  Marketing
+    <span class="sr-only">60% Complete</span>
+  </div>
+</div>
+
 </div>
 
 
-<div class="col-md-3 col-md-pull-9">
-<h1>Mes atouts</h1>
-<ul>
-	<li>Team work</li>
-	<li>Niveau d'adaptation élevé</li>
-	<li>Esprit d'entreprise</li>
-	<li>Veille technologique</li>
-</ul>
-</div>
-</div>
+
 
 
     </div><!-- row -->
