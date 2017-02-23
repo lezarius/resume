@@ -25,8 +25,8 @@
   <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
 <h1 align="center"> Somethink about me ! </h1>
 <article>
-My name is Ronce aka Lezarius. Im an scientist on web, i do lot of think. I try to make better word (wide web, of course).
-Passionate by new tech and politics. Im writing on blog, and a book at my free time.
+My name is Ronce a.k.a Lezarius. I'm a scientist on web, I do a lot of thing. I try to make a better world (wide web, of course).
+Passionated by new tech and politics. I'm writing on my blog, and a book in my spare time.
 <br> 
 <br> 
 Nonetheless my spirit is open for all univers and all people. This is my super power !
@@ -57,7 +57,7 @@ Nonetheless my spirit is open for all univers and all people. This is my super p
 <h3>In 2013 :</h3>
           <div class="col-lg-6">
             <blockquote>
-              <p>Create visual identity and marketing for company.</p>
+              <p>Create visual identity and communication for a company.</p>
               <small>Heuzef 33000,Bordeaux</small>
             </blockquote>
           </div>
@@ -78,7 +78,7 @@ Nonetheless my spirit is open for all univers and all people. This is my super p
 <h3>En 2012 :</h3>
           <div class="col-lg-6">
             <blockquote>
-              <p>front-end dev on many website.</p>
+              <p>Front-end development on many websites.</p>
               <small>Incomm 33270, Floirac, France</small>
             </blockquote>
           </div>
@@ -98,7 +98,7 @@ Nonetheless my spirit is open for all univers and all people. This is my super p
 <h3>En 2010 :</h3>
           <div class="col-lg-6">
             <blockquote>
-              <p>lear some basic tricks of jewellers jobs.</p>
+              <p>Learning techniques of making jewelry.</p>
               <small>Bijouterie Bernard Espina 33000, Bordeaux</small>
             </blockquote>
           </div>
@@ -109,7 +109,7 @@ Nonetheless my spirit is open for all univers and all people. This is my super p
 	<h1 align="center"><span class="glyphicon glyphicon-folder-open"></span></h1>
           <div class="col-lg-6">
             <blockquote>
-              <p>Diplôme National du Brevet des Collèges</p>
+              <p>Diplôme National du Brevet</p>
               <small>Maison Familiale du Blayais 2011 à 2013</small>
             </blockquote>
           </div>
