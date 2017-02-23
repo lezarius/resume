@@ -23,7 +23,7 @@
  <!-- Grande colonne  -->
   <div class="col-md-9 col-md-push-3">
   <h1 align="center"><span class="glyphicon glyphicon-globe"></span></h1>
-<h1 align="center"> Somethink about me ! </h1>
+<h1 align="center"> Something about me ! </h1>
 <article>
 My name is Ronce a.k.a Lezarius. I'm a scientist on web, I do a lot of thing. I try to make a better world (wide web, of course).
 Passionated by new tech and politics. I'm writing on my blog, and a book in my spare time.
